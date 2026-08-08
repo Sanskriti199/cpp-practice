@@ -1,6 +1,6 @@
 # C++ Practice
 
-Practicing C++ from scratch.
+Practicing C++.
 
 ---
 
